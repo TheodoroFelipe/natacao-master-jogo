@@ -3,6 +3,10 @@
 Cada fase do jogo é um slide da apresentação. O nadador pega as bolhas (cada uma revela um tópico)
 e, ao tocar a parede, faz a virada e passa para o próximo slide.
 
+**Jogar online:** https://theodorofelipe.github.io/natacao-master-jogo/ (atualiza sozinho a cada push no `main`,
+só se o teste de fumaça passar; veja `.github/workflows/pages.yml`). Para apresentar, prefira o
+`dist/index.html` local, que funciona sem internet.
+
 ## Começar a programar com o Claude Code
 
 Precisa do [Node.js](https://nodejs.org) 20.19 ou mais novo (ou 22.12+).
